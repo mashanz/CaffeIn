@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/AndroidStudioProjects-CaffeIn.iml" filepath="$PROJECT_DIR$/AndroidStudioProjects-CaffeIn.iml" group="CaffeIn" />
       <module fileurl="file://$PROJECT_DIR$/CaffeIn.iml" filepath="$PROJECT_DIR$/CaffeIn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/CaffeIn-app.iml" filepath="$PROJECT_DIR$/app/CaffeIn-app.iml" group="CaffeIn/app" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
